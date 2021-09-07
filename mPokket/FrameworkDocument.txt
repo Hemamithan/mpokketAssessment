@@ -1,0 +1,11 @@
+List of dependencies are
+  RestAssured
+  JSON Simple
+  hamcrest-all
+  hamcrest-all
+  mysql-connector-java
+  testng
+  jackson-mapper-asl
+  
+  Run the testScript which have mentioned below
+   EmployeeCRUD.test
